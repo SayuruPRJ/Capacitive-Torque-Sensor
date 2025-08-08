@@ -54,7 +54,7 @@ This project was accomplished by a passionate group of **8 dedicated undergradua
 ![Exploded View](Images/31.png)
 
 ### 5. Finite Element Analysis
-![Finite Element Analysis](Images/simulation 1)
+![Finite Element Analysis](Images/simulation1.png)
 ---
 
 ## 📌 Final Note
@@ -63,6 +63,7 @@ While we couldn't get a fully working sensor in the end, we achieved nearly **80
 
 
 ---
+
 
 
 
