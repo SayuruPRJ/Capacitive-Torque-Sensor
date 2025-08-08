@@ -37,6 +37,11 @@ Our system measures torque through **capacitive sensing technology**, leveraging
 
 This project was accomplished by a passionate group of **8 dedicated undergraduate engineers** from the University of Moratuwa. Over weeks of brainstorming, prototyping, testing, and redesigning, we gave our full effort to bring this innovation to life.
 
+**My Contribution:**
+- Designing the complete circuit to be robust against noise.
+- Design and routing of the PCB.
+- Doing the finite element analysis on the Aluminum shaft.
+
 ---
 
 ## 📸 Highlights from the Build
@@ -63,6 +68,7 @@ While we couldn't get a fully working sensor in the end, we achieved nearly **80
 
 
 ---
+
 
 
 
