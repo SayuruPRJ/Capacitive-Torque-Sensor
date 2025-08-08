@@ -53,15 +53,16 @@ This project was accomplished by a passionate group of **8 dedicated undergradua
 ### 4. Exploded View
 ![Exploded View](Images/31.png)
 
+### 5. Finite Element Analysis
+![Finite Element Analysis](Images/simulation 1)
 ---
 
 ## 📌 Final Note
 
 While we couldn't get a fully working sensor in the end, we achieved nearly **80% of our goal**. Our team poured countless hours into designing, simulating, assembling, coding, debugging, and refining this sensor. The journey taught us more than just engineering—it taught us perseverance, teamwork, and the power of iterative improvement.
 
-> “Hard work doesn't always guarantee success, but it always guarantees growth.”
 
 ---
 
-🧠 Thank you for checking out our work. Feedback and suggestions are warmly welcome!
+
 
